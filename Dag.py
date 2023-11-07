@@ -11,7 +11,7 @@ import os
 ## Dag parameters set_up
 
 default_args={
-'owner':'ismo',
+'owner':'ismael',
 'start_date':dt.datetime.today(),
 'retries':1,
 'retry_delay':dt.timedelta(minutes=2) }  
