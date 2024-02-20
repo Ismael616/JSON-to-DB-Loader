@@ -1,6 +1,6 @@
 # JSON-to-DB-Loader
 
-<img src="" alt="Airflow task graphics presentation>
+<img src="" alt="Airflow task graphics presentation">
 
 
 !['Project Status'](https://img.shields.io/badge/Project%20Status-Active-orange)
