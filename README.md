@@ -3,7 +3,7 @@
 <img src="" alt="Airflow task graphics presentation">
 
 
-!['Project Status'](https://img.shields.io/badge/Project%20Status-Active-orange)
+!['Project Status'](https://img.shields.io/badge/Project%20Status-On_Hold-red)
 !['Last Commit'](https://img.shields.io/github/last-commit/ismael616/JSON-to-DB-Loader)
 
 ## Objective
